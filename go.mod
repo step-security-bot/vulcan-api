@@ -15,7 +15,7 @@ require (
 	github.com/confluentinc/confluent-kafka-go v1.9.0
 	github.com/go-kit/kit v0.12.0
 	github.com/goadesign/goa v1.4.3
-	github.com/golang-jwt/jwt/v4 v4.1.0
+	github.com/golang-jwt/jwt/v4 v4.5.0
 	github.com/google/go-cmp v0.5.9
 	github.com/gorilla/mux v1.8.0
 	github.com/jinzhu/gorm v1.9.12
